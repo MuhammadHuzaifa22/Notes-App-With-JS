@@ -1,0 +1,16 @@
+body{
+    background: #ff0101;
+}
+.input-box{
+    width:100%;
+    position: relative;
+    max-width: 500px;
+    min-height: 150px;
+    background: fff;
+    padding: 20px;
+    margin: 20px 0;
+    outline: none;
+    background: white;
+    border-radius: 5px;
+
+}
